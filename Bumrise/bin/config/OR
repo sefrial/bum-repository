@@ -1,0 +1,7 @@
+# Home Page Objects
+btn_Login=.//input[@class='submit']
+btn_Logout=.//input[@value='Logout']
+
+# Login Page Objects
+txtbx_UserName=.//input[@id='login_username']
+txtbx_Password=.//input[@id='password']
