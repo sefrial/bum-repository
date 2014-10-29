@@ -1,7 +1,19 @@
-# Home Page Objects
-btn_Login=.//input[@class='submit']
-btn_Logout=.//input[@value='Logout']
-
 # Login Page Objects
 txtbx_UserName=.//input[@id='login_username']
 txtbx_Password=.//input[@id='password']
+btn_Login=.//input[@class='submit']
+
+# Home Page Objects
+btn_Logout=.//input[@value='Logout']
+btn_Actions=.//*[@id="nav-2"]/li[4]/a/span/span
+btn_Inventory=.//*[@id="nav-2"]/li[5]/a/span/span
+
+# Action Page Objects
+btn_Collect=.//input[@value='Collect bottles']
+
+# Inventory Page Objects
+btn_Bottles=.//*[@id="content"]/div[4]/ul/li[1]/a/span
+
+# Inventory Bottles Page Objects
+btn_Max=.//input[@value='max.']
+btn_Sell=.//input[@value='Sell']

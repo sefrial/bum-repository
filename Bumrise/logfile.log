@@ -182,3 +182,21 @@
 2014-10-29 14:00:05,971 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
 2014-10-29 14:00:05,973 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
 2014-10-29 14:00:05,973 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-29 15:14:15,371 INFO  [Log] ***************************************************** 
+2014-10-29 15:14:15,371 INFO  [Log] ***************************************************** 
+2014-10-29 15:14:15,371 INFO  [Log] ++++++++++      Login_01      ++++++++++++++ 
+2014-10-29 15:14:15,371 INFO  [Log] ***************************************************** 
+2014-10-29 15:14:15,371 INFO  [Log] ***************************************************** 
+2014-10-29 15:14:15,371 INFO  [Log] Opening browser 
+2014-10-29 15:14:48,000 INFO  [Log] maximize window 
+2014-10-29 15:14:48,328 INFO  [Log] navigate to website 
+2014-10-29 15:15:24,188 INFO  [Log] entering the text txtbx_UserName 
+2014-10-29 15:15:26,516 INFO  [Log] entering the text txtbx_Password 
+2014-10-29 15:15:26,704 INFO  [Log] click on element btn_Login 
+2014-10-29 15:15:45,469 INFO  [Log] wait for 8 seconds 
+2014-10-29 15:15:53,540 INFO  [Log] closing the ad pop-up 
+2014-10-29 15:15:53,846 INFO  [Log] click on element btn_Logout 
+2014-10-29 15:15:56,094 INFO  [Log] closing the browser 
+2014-10-29 15:15:56,625 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-29 15:15:56,625 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-29 15:15:56,625 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
