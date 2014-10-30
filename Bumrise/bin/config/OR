@@ -10,6 +10,7 @@ btn_Inventory=.//*[@id="nav-2"]/li[5]/a/span/span
 
 # Action Page Objects
 btn_Collect=.//input[@value='Collect bottles']
+lst_Time=.//select[@name='time']
 
 # Inventory Page Objects
 btn_Bottles=.//*[@id="content"]/div[4]/ul/li[1]/a/span

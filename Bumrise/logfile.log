@@ -200,3 +200,79 @@
 2014-10-29 15:15:56,625 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
 2014-10-29 15:15:56,625 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
 2014-10-29 15:15:56,625 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-30 13:01:56,961 INFO  [Log] ***************************************************** 
+2014-10-30 13:01:56,993 INFO  [Log] ***************************************************** 
+2014-10-30 13:01:56,993 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-30 13:01:56,993 INFO  [Log] ***************************************************** 
+2014-10-30 13:01:56,993 INFO  [Log] ***************************************************** 
+2014-10-30 13:01:56,993 INFO  [Log] Opening browser 
+2014-10-30 13:02:18,639 INFO  [Log] maximize window 
+2014-10-30 13:02:18,905 INFO  [Log] navigate to website 
+2014-10-30 13:02:23,826 INFO  [Log] entering the text txtbx_UserName 
+2014-10-30 13:02:24,060 INFO  [Log] entering the text txtbx_Password 
+2014-10-30 13:02:24,185 INFO  [Log] click on element btn_Login 
+2014-10-30 13:02:33,254 INFO  [Log] wait for 8 seconds 
+2014-10-30 13:02:41,330 INFO  [Log] closing the ad pop-up 
+2014-10-30 13:05:24,117 INFO  [Log] ***************************************************** 
+2014-10-30 13:05:24,117 INFO  [Log] ***************************************************** 
+2014-10-30 13:05:24,117 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-30 13:05:24,117 INFO  [Log] ***************************************************** 
+2014-10-30 13:05:24,117 INFO  [Log] ***************************************************** 
+2014-10-30 13:05:24,117 INFO  [Log] Opening browser 
+2014-10-30 13:05:30,605 INFO  [Log] maximize window 
+2014-10-30 13:05:30,699 INFO  [Log] navigate to website 
+2014-10-30 13:05:32,970 INFO  [Log] entering the text txtbx_UserName 
+2014-10-30 13:05:33,116 INFO  [Log] entering the text txtbx_Password 
+2014-10-30 13:05:33,228 INFO  [Log] click on element btn_Login 
+2014-10-30 13:05:40,963 INFO  [Log] wait for 8 seconds 
+2014-10-30 13:08:40,349 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:40,349 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:40,349 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-30 13:08:40,349 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:40,349 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:40,349 INFO  [Log] Opening browser 
+2014-10-30 13:08:46,467 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-30 13:08:46,467 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:46,467 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:46,467 INFO  [Log] ++++++++++      Action_01      ++++++++++++++ 
+2014-10-30 13:08:46,467 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:46,467 INFO  [Log] ***************************************************** 
+2014-10-30 13:08:46,467 INFO  [Log] click on element btn_Actions 
+2014-10-30 13:08:46,514 INFO  [Log] Not able to click ----Unable to locate element: {"method":"xpath","selector":".//*[@id=\"nav-2\"]/li[4]/a/span/span"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=28.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b10740fd-370b-400b-a11c-0d88172c983b 
+2014-10-30 13:08:46,514 INFO  [Log] closing the browser 
+2014-10-30 13:08:46,623 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-30 13:08:46,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-30 13:08:46,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-30 13:09:20,078 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:20,078 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:20,078 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-30 13:09:20,078 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:20,078 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:20,078 INFO  [Log] Opening browser 
+2014-10-30 13:09:24,294 INFO  [Log] maximize window 
+2014-10-30 13:09:24,372 INFO  [Log] navigate to website 
+2014-10-30 13:09:26,710 INFO  [Log] entering the text txtbx_UserName 
+2014-10-30 13:09:26,882 INFO  [Log] entering the text txtbx_Password 
+2014-10-30 13:09:27,241 INFO  [Log] click on element btn_Login 
+2014-10-30 13:09:35,335 INFO  [Log] wait for 8 seconds 
+2014-10-30 13:09:43,398 INFO  [Log] closing the ad pop-up 
+2014-10-30 13:09:43,864 INFO  [Log] click on element btn_Actions 
+2014-10-30 13:09:44,067 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-30 13:09:44,067 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:44,067 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:44,067 INFO  [Log] ++++++++++      Action_01      ++++++++++++++ 
+2014-10-30 13:09:44,067 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:44,067 INFO  [Log] ***************************************************** 
+2014-10-30 13:09:44,067 INFO  [Log] click on element btn_Actions 
+2014-10-30 13:09:52,190 INFO  [Log] click on element btn_Collect 
+2014-10-30 13:09:53,085 INFO  [Log] click on element btn_Logout 
+2014-10-30 13:09:54,032 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-30 13:09:54,032 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-30 13:09:54,032 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 

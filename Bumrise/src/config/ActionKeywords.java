@@ -6,6 +6,7 @@ import static executionEngine.DriverScript.OR;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.Select;
 
 import executionEngine.DriverScript;
 
@@ -114,5 +115,13 @@ public class ActionKeywords {
 			DriverScript.bResult = false;
 		}
 	}
-
+	
+	public static void selectTime(String object, String data) {
+		try{
+			Select dropdown = new Select(driver.findElement(By.xpath(OR.getProperty(object))));
+			dropdown.selectByIndex(3);
+		}catch (Exception e){
+			Log.info("Value not found in the list ----" + e.getMessage());
+		}
+	}
 }
