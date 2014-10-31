@@ -276,3 +276,130 @@ Session ID: b10740fd-370b-400b-a11c-0d88172c983b
 2014-10-30 13:09:54,032 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
 2014-10-30 13:09:54,032 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
 2014-10-30 13:09:54,032 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 16:42:26,378 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:26,418 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:26,418 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-31 16:42:26,418 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:26,418 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:26,420 INFO  [Log] Opening browser 
+2014-10-31 16:42:44,395 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:42:44,396 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,396 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,396 INFO  [Log] ++++++++++      Empty_01      ++++++++++++++ 
+2014-10-31 16:42:44,396 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,396 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,396 INFO  [Log] click on element btn_Actions 
+2014-10-31 16:42:44,588 INFO  [Log] Not able to click ----Unable to locate element: {"method":"xpath","selector":".//*[@id=\"nav-2\"]/li[4]/a/span/span"}
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=28.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b96aa49e-49a3-46b9-844b-452388f197de 
+2014-10-31 16:42:44,618 INFO  [Log] closing the browser 
+2014-10-31 16:42:44,813 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:42:44,813 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,813 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,813 INFO  [Log] ++++++++++      Logout_01      ++++++++++++++ 
+2014-10-31 16:42:44,813 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,813 INFO  [Log] ***************************************************** 
+2014-10-31 16:42:44,813 INFO  [Log] click on element btn_Logout 
+2014-10-31 16:42:44,814 INFO  [Log] Not able to click ----The FirefoxDriver cannot be used after quit() was called.
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver 
+2014-10-31 16:42:44,814 INFO  [Log] closing the browser 
+2014-10-31 16:42:44,815 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:42:44,815 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 16:42:44,815 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 16:43:30,207 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:30,207 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:30,207 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-31 16:43:30,207 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:30,207 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:30,207 INFO  [Log] Opening browser 
+2014-10-31 16:43:36,177 INFO  [Log] maximize window 
+2014-10-31 16:43:36,302 INFO  [Log] navigate to website 
+2014-10-31 16:43:39,237 INFO  [Log] entering the text txtbx_UserName 
+2014-10-31 16:43:39,440 INFO  [Log] entering the text txtbx_Password 
+2014-10-31 16:43:39,972 INFO  [Log] click on element btn_Login 
+2014-10-31 16:43:50,222 INFO  [Log] wait for 8 seconds 
+2014-10-31 16:43:58,270 INFO  [Log] closing the ad pop-up 
+2014-10-31 16:43:58,702 INFO  [Log] click on element btn_Actions 
+2014-10-31 16:43:58,889 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:43:58,889 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:58,889 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:58,889 INFO  [Log] ++++++++++      Empty_01      ++++++++++++++ 
+2014-10-31 16:43:58,889 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:58,889 INFO  [Log] ***************************************************** 
+2014-10-31 16:43:58,889 INFO  [Log] click on element btn_Actions 
+2014-10-31 16:44:00,686 INFO  [Log] wait for 8 seconds 
+2014-10-31 16:44:08,719 INFO  [Log] closing the ad pop-up 
+2014-10-31 16:44:09,176 INFO  [Log] click on element btn_Collect 
+2014-10-31 16:44:19,301 INFO  [Log] Not able to click ----Unable to locate element: {"method":"xpath","selector":".//input[@value='Collect bottles']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=28.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0292e4b4-2547-471a-ad73-004089455fb2 
+2014-10-31 16:44:19,332 INFO  [Log] closing the browser 
+2014-10-31 16:44:19,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:44:19,801 INFO  [Log] ***************************************************** 
+2014-10-31 16:44:19,801 INFO  [Log] ***************************************************** 
+2014-10-31 16:44:19,801 INFO  [Log] ++++++++++      Logout_01      ++++++++++++++ 
+2014-10-31 16:44:19,801 INFO  [Log] ***************************************************** 
+2014-10-31 16:44:19,801 INFO  [Log] ***************************************************** 
+2014-10-31 16:44:19,801 INFO  [Log] click on element btn_Logout 
+2014-10-31 16:44:19,801 INFO  [Log] Not able to click ----The FirefoxDriver cannot be used after quit() was called.
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver 
+2014-10-31 16:44:19,832 INFO  [Log] closing the browser 
+2014-10-31 16:44:19,863 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 16:44:19,863 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 16:44:19,863 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 17:12:07,442 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:07,442 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:07,442 INFO  [Log] ++++++++++      Login_02      ++++++++++++++ 
+2014-10-31 17:12:07,442 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:07,442 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:07,442 INFO  [Log] Opening browser 
+2014-10-31 17:12:13,740 INFO  [Log] maximize window 
+2014-10-31 17:12:13,871 INFO  [Log] navigate to website 
+2014-10-31 17:12:15,585 INFO  [Log] entering the text txtbx_UserName 
+2014-10-31 17:12:15,741 INFO  [Log] entering the text txtbx_Password 
+2014-10-31 17:12:16,121 INFO  [Log] click on element btn_Login 
+2014-10-31 17:12:22,223 INFO  [Log] wait for 8 seconds 
+2014-10-31 17:12:30,277 INFO  [Log] closing the ad pop-up 
+2014-10-31 17:12:30,683 INFO  [Log] click on element btn_Actions 
+2014-10-31 17:12:30,886 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 17:12:30,886 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:30,886 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:30,886 INFO  [Log] ++++++++++      Empty_01      ++++++++++++++ 
+2014-10-31 17:12:30,886 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:30,886 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:30,886 INFO  [Log] click on element btn_Actions 
+2014-10-31 17:12:32,279 INFO  [Log] wait for 8 seconds 
+2014-10-31 17:12:40,331 INFO  [Log] closing the ad pop-up 
+2014-10-31 17:12:40,740 INFO  [Log] click on element btn_Collect 
+2014-10-31 17:12:41,995 INFO  [Log] click on element btn_Home 
+2014-10-31 17:12:42,214 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 17:12:42,214 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:42,214 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:42,214 INFO  [Log] ++++++++++      Logout_01      ++++++++++++++ 
+2014-10-31 17:12:42,214 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:42,214 INFO  [Log] ***************************************************** 
+2014-10-31 17:12:42,214 INFO  [Log] click on element btn_Logout 
+2014-10-31 17:12:44,248 INFO  [Log] closing the browser 
+2014-10-31 17:12:44,687 INFO  [Log] click on element btn_Actions 
+2014-10-31 17:12:44,703 INFO  [Log] Not able to click ----The FirefoxDriver cannot be used after quit() was called.
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'EN60495', ip: '192.168.166.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver 
+2014-10-31 17:12:44,718 INFO  [Log] closing the browser 
+2014-10-31 17:12:44,765 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-31 17:12:44,765 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-31 17:12:44,765 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
