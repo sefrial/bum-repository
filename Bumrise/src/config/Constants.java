@@ -10,8 +10,8 @@ public class Constants {
 	// Declared as 'final', so that the value of this variable can't be changed
 
 	public static final String URL = "http://www.bumrise.com";
-	public static final String Path_TestData = "D://BumGit//bum-repository//Bumrise//src//dataEngine//DataEngine.xlsx";
-	public static final String Path_OR = "D://BumGit//bum-repository//Bumrise//src//config//OR";
+	public static final String Path_TestData = "src/dataEngine/DataEngine.xlsx";
+	public static final String Path_OR = "src/config/OR";
 	public static final String File_TestData = "DataEngine.xlsx";
 
 	// List of Data Sheet Column Numbers

@@ -1,5 +1,6 @@
 package executionEngine;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
 import java.util.Properties;
@@ -39,6 +40,10 @@ public class DriverScript {
 	public static void main(String[] args) throws Exception {
 		// Get excel file path from Constants class variable
 		// String sPath = Constants.Path_TestData;
+		
+		//File f = new File("");
+		//System.out.println(f.getAbsolutePath());
+		//System.exit(0);
 
 		// Pass the Excel file path as argument
 		ExcelUtils.setExcelFile(Constants.Path_TestData);
